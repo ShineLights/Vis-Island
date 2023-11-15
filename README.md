@@ -1,4 +1,4 @@
-DayZ-Central-Economy || Vis Island DayZ Map
+DayZ-Central-Economy || Vis Island Map
 --------------------------------------------------------------------------------
 
 # How to use/install mission?
@@ -39,7 +39,7 @@ Edit init.c, found within your mission folder. Add these lines to the bottom of 
 
 3. Lastly, comment out the export line we added to init.c.
 
-DayZ-Central-Economy || Vis Island DayZ Map
+DayZ-Central-Economy || Vis Island Map
 --------------------------------------------------------------------------------
 
 # Как использовать/установить миссию?
