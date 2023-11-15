@@ -10,7 +10,6 @@ Features:
 
 ![alt text](https://i.imgur.com/nvOCB0J.png)
 
-Vis Island Mods:
 Vis Island (Steam) - https://steamcommunity.com/sharedfiles/filedetails/?id=3031438368
 Vis Island Winter Version (Steam) - https://steamcommunity.com/sharedfiles/filedetails/?id=3067553021
 
