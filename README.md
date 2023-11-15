@@ -1,7 +1,24 @@
-DayZ-Central-Economy | Vis Island Map
+DayZ-Central-Economy Setup Guide | Vis Island DayZ Map
 --------------------------------------------------------------------------------
 
+Vis is an island in the Adriatic Sea, in the southern part of Croatia, not far from the coast of Dalmatia. Vis has an area of ​​90.26 square kilometers. This is a huge island with many beautiful places and cities. Despite the pleasant summer weather, you will have to face equally dangerous infected, animals and other survivors.
+
+Features:
+*Map based on a real island
+*New level of map detail
+*Custom assets, surfaces, loadingscreens, and more...
+
 ![alt text](https://i.imgur.com/nvOCB0J.png)
+
+Vis Island Mods:
+Vis Island (Steam) - https://steamcommunity.com/sharedfiles/filedetails/?id=3031438368
+Vis Island Winter Version (Steam) - https://steamcommunity.com/sharedfiles/filedetails/?id=3067553021
+
+
+Map under development. For all comments, suggestions, instructions, questions, mission files, help and more, please join our Discord - https://discord.gg/barKHWyRQJ
+
+
+![alt text](https://i.imgur.com/ZuzqlOa.png)
 
 # How to use/install mission?
 
