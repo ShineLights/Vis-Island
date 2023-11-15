@@ -1,6 +1,8 @@
 DayZ-Central-Economy || Vis Island Map
 --------------------------------------------------------------------------------
 
+![Alt text]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://i.imgur.com/nvOCB0J.png) "Banner")
+
 # How to use/install mission?
 
 1. Create a folder called dayzOffline.Vis_Island in your server's mpmissions directory, and extract the Mission Files there.
