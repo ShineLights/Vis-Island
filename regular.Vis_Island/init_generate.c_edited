@@ -1,0 +1,13 @@
+void main()
+{
+	CreateHive();
+	GetHive().InitOffline();
+
+	// GetCEApi().ExportProxyData("10240 0 10240", 20480);
+	// GetCEApi().ExportClusterData();
+
+	vector spawnPos = "6885 0 12108";
+	Entity playerEnt = GetGame().CreatePlayer(NULL, "SurvivorF_Eva", spawnPos, 0, "NONE");
+	PlayerBase player = (PlayerBase) playerEnt;
+	GetGame().SelectPlayer(NULL, player);
+};
