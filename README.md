@@ -10,9 +10,9 @@ Features:
 
 ![alt text](https://i.imgur.com/nvOCB0J.png)
 
-Vis Island (Steam) - https://steamcommunity.com/sharedfiles/filedetails/?id=3031438368
-
-Vis Island Winter Version (Steam) - https://steamcommunity.com/sharedfiles/filedetails/?id=3067553021
+Vis Island Mods:
+1. Vis Island (Steam) - https://steamcommunity.com/sharedfiles/filedetails/?id=3031438368
+2. Vis Island Winter Version (Steam) - https://steamcommunity.com/sharedfiles/filedetails/?id=3067553021
 
 
 Map under development. For all comments, suggestions, instructions, questions, mission files, help and more, please join our Discord - https://discord.gg/barKHWyRQJ
