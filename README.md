@@ -1,7 +1,7 @@
 DayZ-Central-Economy || Vis Island Map
 --------------------------------------------------------------------------------
 
-![Alt text]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://i.imgur.com/nvOCB0J.png) "Banner")
+![alt text](https://i.imgur.com/nvOCB0J.png)
 
 # How to use/install mission?
 
