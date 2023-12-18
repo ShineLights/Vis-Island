@@ -1,5 +1,24 @@
-DayZ-Central-Economy || Vis Island Map
+DayZ-Central-Economy Setup Guide | Vis Island DayZ Map
 --------------------------------------------------------------------------------
+
+Vis is an island in the Adriatic Sea, in the southern part of Croatia, not far from the coast of Dalmatia. Vis has an area of ​​90.26 square kilometers. This is a huge island with many beautiful places and cities. Despite the pleasant summer weather, you will have to face equally dangerous infected, animals and other survivors.
+
+Features:
+*Map based on a real island
+*New level of map detail
+*Custom assets, surfaces, loadingscreens, and more...
+
+![alt text](https://i.imgur.com/nvOCB0J.png)
+
+Vis Island Mods:
+1. Vis Island (Steam) - https://steamcommunity.com/sharedfiles/filedetails/?id=3031438368
+2. Vis Island Winter Version (Steam) - https://steamcommunity.com/sharedfiles/filedetails/?id=3067553021
+
+
+Map under development. For all comments, suggestions, instructions, questions, mission files, help and more, please join our Discord - https://discord.gg/barKHWyRQJ
+
+
+![alt text](https://i.imgur.com/ZuzqlOa.png)
 
 # How to use/install mission?
 
@@ -28,47 +47,6 @@ DayZ-Central-Economy || Vis Island Map
 We recommend you update mapgrouppos/mpgroupcluster xml's yourself after updates, or when adding your own map object's.
 
 Edit init.c, found within your mission folder. Add these lines to the bottom of void main() :
-
-`GetCEApi().ExportProxyData( "7500 0 7500", 15000 );  // Generate mapgrouppos.xml`
-
-`GetCEApi().ExportClusterData();                    // Generate mapgroupcluster.xml`
-
-1. Start server, and an export folder will be created. dayzoffline.Vis_Island/Storage/export. Within, you'll find your new XML's. This may take some time depending on system performance.
-
-2. Stop server. Copy/paste your new .xml's to dayzoffline.Vis_Island.
-
-3. Lastly, comment out the export line we added to init.c.
-
-DayZ-Central-Economy || Vis Island Map
---------------------------------------------------------------------------------
-
-# Как использовать/установить миссию?
-
-1. Создайте папку с именем dayzOffline.Vis_Island в каталоге mpmissions вашего сервера и извлеките туда файлы миссий.
-
-2. Отредактируйте serverdz.cfg (в вашем каталоге DayZServer). Внизу определите миссию как dayzoffline.Vis_Island, затем сохраните.
-
-`template="dayzOffline.Vis_Island"; // Mission to load on server startup. <MissionName>.<TerrainName>`
-
-3. Скопируйте мод @Vis_Island в каталог DayZServer.
-
-4. Добавьте мод @Vis_Island в .bat-файл вашего сервера или программное обеспечение для управления.
-
-`"-mod=@Vis_Island;"`
-
-# Обновление миссии
-
-1. Удалите содержимое папки вашей миссии (dayzoffline.Vis_Island), **кроме папки Storage**. Это ваши файлы сохранения.
-
-2. Поместите новые файлы миссии в папку с миссией.
-
-3. Перейдите к dayzoffline.Vis_Island\storage\data и удалите типы.001, типы.002 и типы.bin, чтобы повторно инициализировать таблицу добычи.
-
-# Обновление лута/Mapgrouppos
-
-Мы рекомендуем вам самостоятельно обновлять XML-файлы mapgrouppos/mpgroupcluster после обновлений или при добавлении собственных объектов карты.
-
-Отредактируйте файл init.c, который находится в папке вашей миссии. Добавьте эти строки в конец void main() :
 
 `GetCEApi().ExportProxyData( "7500 0 7500", 15000 );  // Generate mapgrouppos.xml`
 
