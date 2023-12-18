@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <economycore>
+    <ce folder="vis_island_ce">
+        <file name="weapons_vis_island_types.xml" type="types" />
+    </ce>
 	<classes>
-<!--
-These are rootclasses to be used by economy.
-Do not forget to add attribute act="character", if root class represents character (player, infected, animal)
-Do not forget to add attribute act="car", if root class represents moveable vehicles
--->
 		<rootclass name="DefaultWeapon" /> <!-- weapons -->
 		<rootclass name="DefaultMagazine" /> <!-- magazines -->
 		<rootclass name="Inventory_Base" /> <!-- inventory items -->

@@ -12,27 +12,19 @@
 				<default name="clusterMatrix" de="TrajectoryPear" width="12" height="12"/>
 				<default name="clusterMatrix" de="TrajectoryPlum" width="12" height="12"/>
 		</defaults>
-		<!-- Custom: Military -->
-		<!-- <group name="StaticObj_Wreck_Mi8" lootmax="10">
+		<!-- Vis Island: Customs -->
+		<group name="Land_Mil_Tower_Small" lootmax="1">
 			<usage name="Military" />
-			<container name="lootFloor" lootmax="6">
-				<category name="tools" />
+			<container name="lootFloor" lootmax="1">
 				<category name="clothes" />
-				<category name="food" />
-				<point pos="-4.203450 -1.647941 0.216010" range="1" height="1" /> 
-				<point pos="-1.964392 -1.647941 0.104510" range="1" height="1" /> 
-				<point pos="-4.670585 -2.144346 -1.581598" range="1" height="1" /> 
-				<point pos="-8.603683 -2.277295 2.368802" range="1" height="1" /> 
-
-			</container>
-			<container name="lootweapons" lootmax="4">
 				<category name="weapons" />
 				<category name="explosives" />
-				<point pos="-3.890271 -2.494662 2.215624" range="1" height="1" /> 
-				<point pos="2.937417 -1.697941 0.436646" range="1" height="1" /> 
-				<point pos="3.256451 -2.305936 -2.345646" range="1" height="1" /> 
+				<tag name="floor" />
+				<tag name="shelves" />
+				<point pos="1.649902 1.277603 0.550781" range="0.285645" height="0.714111" />
+				<point pos="1.128418 1.277603 -0.120117" range="0.564091" height="1.382492" />
 			</container>
-		</group> -->
+		</group>
 		<!-- CEAP: Houseblocks -->
 		<group name="Land_ceap_block1" lootmax="7">
 			<usage name="Village" />
